@@ -68,6 +68,13 @@ section h2 {
   }
 }
 
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
 .btn-xl {
   padding: 1rem 1.75rem;
   font-size: 1.25rem;
