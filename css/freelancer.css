@@ -12,6 +12,11 @@ h6 {
   font-family: 'Montserrat';
 }
 
+input {
+    border: none;
+    background-color: transparent;
+ }
+
 hr.light,
 hr.dark {
   max-width: 15rem;

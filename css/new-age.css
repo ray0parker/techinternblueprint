@@ -8,6 +8,11 @@ body {
   font-family: 'Muli', 'Helvetica', 'Arial', 'sans-serif';
 }
 
+input {
+    border: none;
+    background-color: transparent;
+ }
+
 a {
   color: #fdcc52;
   -webkit-transition: all .35s;
